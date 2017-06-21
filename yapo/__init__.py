@@ -1,0 +1,7 @@
+__title__ = 'yapo'
+__description__ = 'Yet Another Python Objectifier for XML and what to come.'
+__version__ = '0.0.1'
+__author__ = 'bogdan barna'
+__author_email__ = 'foo.barna@gmail.com'
+__url__ = 'https://github.com/foobarna/yapo'
+__license__ = 'MIT'
